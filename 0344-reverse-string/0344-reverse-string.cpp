@@ -1,0 +1,21 @@
+class Solution {
+public:
+    void reverseHelper(vector<char>& s,int left,int right){
+        
+
+        if(left>=right){
+            return;
+        }
+        else{
+            swap(s[left],s[right]);
+
+            reverseHelper(s,left+1,right-1);
+        }
+        }
+
+    void reverseString(vector<char>& s) {
+        reverseHelper(s,0,s.size()-1);
+        
+        
+    }
+};
