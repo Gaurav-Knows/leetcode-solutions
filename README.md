@@ -20,13 +20,13 @@ The goal is to build strong problem-solving skills, understand common DSA patter
 | Hashing | ✅ Completed |
 | Two Pointers | ✅ Completed |
 | Sliding Window | ✅ Completed |
+| Binary Search | 🟠 Partially Completed |
+| Stack | 🟠 Partially Completed |
 | Linked Lists | ✅ Completed |
 | Recursion | ✅ Completed |
 | Backtracking | ✅ Completed |
 | Queue | ✅ Completed |
 | Heap / Priority Queue | 🔄 In Progress |
-| Binary Search | ⬜ Upcoming |
-| Stack | ⬜ Upcoming |
 | Trees | ⬜ Upcoming |
 | Graphs | ⬜ Upcoming |
 | Dynamic Programming | ⬜ Upcoming |
