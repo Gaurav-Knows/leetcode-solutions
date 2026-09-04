@@ -58,3 +58,15 @@ My DSA learning path covers:
 ## Note
 
 These solutions are written as part of my DSA learning journey. I focus on understanding the underlying concepts and problem-solving patterns rather than simply memorizing solutions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+<!---LeetCode Topics End-->
