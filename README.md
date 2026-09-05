@@ -69,6 +69,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Math
@@ -78,6 +79,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -95,4 +97,16 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
