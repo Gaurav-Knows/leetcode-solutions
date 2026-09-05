@@ -26,8 +26,8 @@ The goal is to build strong problem-solving skills, understand common DSA patter
 | Recursion | ✅ Completed |
 | Backtracking | ✅ Completed |
 | Queue | ✅ Completed |
-| Heap / Priority Queue | 🔄 In Progress |
-| Trees | ⬜ Upcoming |
+| Heap / Priority Queue | ✅ Completed |
+| Trees | 🔄 In Progress |
 | Graphs | ⬜ Upcoming |
 | Dynamic Programming | ⬜ Upcoming |
 | Greedy | ⬜ Upcoming |
