@@ -70,6 +70,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Math
@@ -88,6 +89,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -109,4 +111,16 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
