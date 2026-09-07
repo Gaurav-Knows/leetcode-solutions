@@ -123,4 +123,20 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
