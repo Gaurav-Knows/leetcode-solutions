@@ -146,6 +146,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -162,6 +163,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -179,6 +181,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -211,5 +214,6 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
