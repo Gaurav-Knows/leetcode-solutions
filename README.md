@@ -152,6 +152,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +170,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
