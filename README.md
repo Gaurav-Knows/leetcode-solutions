@@ -142,6 +142,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -162,6 +163,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0101-symmetric-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -182,6 +184,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -205,6 +208,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -228,4 +232,8 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
