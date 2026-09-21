@@ -65,6 +65,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0200-number-of-islands](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -168,6 +169,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -206,6 +208,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0102-binary-tree-level-order-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 ## DP on Trees
@@ -242,5 +245,10 @@ These solutions are written as part of my DSA learning journey. I focus on under
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
