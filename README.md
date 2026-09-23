@@ -69,6 +69,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0695-max-area-of-island](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -214,6 +215,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0226-invert-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,6 +253,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0200-number-of-islands](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0994-rotting-oranges](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
