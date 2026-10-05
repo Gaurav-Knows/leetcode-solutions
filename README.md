@@ -77,6 +77,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0023-merge-k-sorted-lists](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0743-network-delay-time](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 ## Math
@@ -185,6 +186,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0695-max-area-of-island](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -226,6 +228,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0695-max-area-of-island](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0994-rotting-oranges](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -259,6 +262,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +284,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0210-course-schedule-ii](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0684-redundant-connection](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +298,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
