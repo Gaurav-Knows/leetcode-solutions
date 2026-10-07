@@ -28,8 +28,8 @@ The goal is to build strong problem-solving skills, understand common DSA patter
 | Queue | ✅ Completed |
 | Heap / Priority Queue | ✅ Completed |
 | Trees | ✅ Completed  |
-| Graphs | 🔄 In Progress |
-| Dynamic Programming | ⬜ Upcoming |
+| Graphs | ✅ Completed |
+| Dynamic Programming | 🔄 In Progress |
 | Greedy | ⬜ Upcoming |
 
 
