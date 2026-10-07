@@ -68,6 +68,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0200-number-of-islands](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0994-rotting-oranges](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -265,6 +266,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0746-min-cost-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
