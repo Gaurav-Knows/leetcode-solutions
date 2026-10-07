@@ -84,6 +84,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -262,6 +263,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Matrix
@@ -322,4 +324,8 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
