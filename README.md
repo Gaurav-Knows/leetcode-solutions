@@ -65,6 +65,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0198-house-robber](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -266,6 +267,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0198-house-robber](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Matrix
