@@ -67,6 +67,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0198-house-robber](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0695-max-area-of-island](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -228,6 +229,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0207-course-schedule](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0684-redundant-connection](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -269,6 +271,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0091-decode-ways](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Matrix
@@ -337,4 +340,12 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0091-decode-ways](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
