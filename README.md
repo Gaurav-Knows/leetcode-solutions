@@ -266,6 +266,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -332,4 +333,8 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0091-decode-ways](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0091-decode-ways/) | Medium |
 <!---LeetCode Topics End-->
