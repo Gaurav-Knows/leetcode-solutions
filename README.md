@@ -68,6 +68,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0198-house-robber](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0695-max-area-of-island](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -272,6 +273,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Matrix
@@ -344,8 +346,10 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
