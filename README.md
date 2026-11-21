@@ -95,6 +95,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -352,4 +353,8 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0518-coin-change-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
