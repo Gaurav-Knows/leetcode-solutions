@@ -76,6 +76,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | [0994-rotting-oranges](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1584-min-cost-to-connect-all-points](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,4 +359,16 @@ These solutions are written as part of my DSA learning journey. I focus on under
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/0191-number-of-1-bits/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Gaurav-Knows/leetcode-solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
